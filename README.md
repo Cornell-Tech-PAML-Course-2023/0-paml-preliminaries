@@ -82,3 +82,12 @@ Open the files listed below and follow along in lecture to complete them:
 * 1-hello-world.ipynb: explore data types, data structures, and simple operations (addition, multiplication, etc)
 * 2-ML-libraries.ipynb: explore ML libraries e.g., pandas to store data, create visualizations
 * 3-numpy-tutorial.ipynb: Use numpy to store arrays, matrices, lists, and other data types
+
+# Further Issues and questions ❓
+
+If you have issues or questions, don't hesitate to contact the teaching team:
+
+* Angelique Taylor (amt298@cornell.edu) - Instructor
+* Tauhid Tanjim (tt485@cornell.edu) - Teaching Assistant
+* Jinzhao Kank (jk2575@cornell.edu) - Grader
+* Kathryn Gdula (kg435@cornell.edu) - Grader
