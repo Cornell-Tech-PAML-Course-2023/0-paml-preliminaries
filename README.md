@@ -1,4 +1,4 @@
-# preliminaries
+# Practical Applications in Machine Learning - Preliminaries
 
 The goal of this activity is to help students become familiar with basic data types, data structures, functions, machine learning and numpy libraries. 
 
