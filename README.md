@@ -11,7 +11,7 @@ Next, clone this repository by opening a terminal and typing the following comma
 
     $ cd $HOME  # or any other development directory you prefer
     $ git clone https://github.com/Cornell-Tech-PAML-Course/0-paml-preliminaries.git
-    $ cd preliminaries
+    $ cd 0-paml-preliminaries
 
 If you do not want to install git, you can instead download [master.zip](https://github.com/Cornell-Tech-PAML-Course/0-paml-preliminaries/archive/refs/heads/main.zip), unzip it, rename the resulting directory to `0-paml-preliminaries` and move it to your development directory.
 
@@ -29,7 +29,7 @@ Once Anaconda (or Miniconda) is installed, run the following command to update t
 > **Note**: if you don't like Anaconda for some reason, then you can install Python 3 and use pip to install the required libraries manually (this is not recommended, unless you really know what you are doing). I recommend using Python 3.8, since some libs don't support Python 3.9 or 3.10 yet.
 
 ## Start Jupyter
-You're almost there! You just need to register the `tf2` conda environment to Jupyter. The notebooks in this project will default to the environment named `python3`, so it's best to register this environment using the name `python3` (if you prefer to use another name, you will have to select it in the "Kernel > Change kernel..." menu in Jupyter every time you open a notebook):
+The notebooks in this project will default to the environment named `python3`, so it's best to register this environment using the name `python3` (if you prefer to use another name, you will have to select it in the "Kernel > Change kernel..." menu in Jupyter every time you open a notebook):
 
     $ python3 -m ipykernel install --user --name=python3
 
@@ -43,8 +43,7 @@ Congrats! You are ready to learn Machine Learning, hands on!
 
 When you're done with Jupyter, you can close it by typing Ctrl-C in the Terminal window where you started it. Every time you want to work on this project, you will need to open a Terminal, and run:
 
-    $ cd $HOME # or whatever development directory you chose earlier
-    $ cd 0-paml-preliminaries
+    $ conda env create -f environment
     $ conda activate tf2
     $ jupyter notebook
 
@@ -89,5 +88,5 @@ If you have issues or questions, don't hesitate to contact the teaching team:
 
 * Angelique Taylor (amt298@cornell.edu) - Instructor
 * Tauhid Tanjim (tt485@cornell.edu) - Teaching Assistant
-* Jinzhao Kank (jk2575@cornell.edu) - Grader
+* Jinzhao Kang (jk2575@cornell.edu) - Grader
 * Kathryn Gdula (kg435@cornell.edu) - Grader
