@@ -78,7 +78,7 @@ Lastly, we start Jupyter:
 
 Open the files listed below and follow along in lecture to complete them:
 
-* 1-hello-world.ipynb: explore data types, data structures, and simple operations (addition, multiplication, etc)
+* 1-hello-world.ipynb: explore data types, data structures, simple operations (addition, multiplication, etc), and functions
 * 2-ML-libraries.ipynb: explore ML libraries e.g., pandas to store data, create visualizations
 * 3-numpy-tutorial.ipynb: Use numpy to store arrays, matrices, lists, and other data types
 
