@@ -5,12 +5,12 @@ The goal of this activity is to help students become familiar with basic data ty
 # Installation
 
 ## Downloads for course
-* Python (at least v3.5)[https://formulae.brew.sh/formula/python@3.8]
-* Visual Studio Code[https://code.visualstudio.com/]
-* pip[https://www.geeksforgeeks.org/how-to-install-pip-in-macos/]
-* Git[https://git-scm.com/downloads]
-* Jupyter Notebook[https://ipython.readthedocs.io/en/stable/install/install.html]
-* Create Google Colab Account[https://colab.research.google.com/]
+* [Python (at least v3.5)](https://formulae.brew.sh/formula/python@3.8)
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [pip](https://www.geeksforgeeks.org/how-to-install-pip-in-macos/)
+* [Git](https://git-scm.com/downloads)
+* [Jupyter Notebook](https://ipython.readthedocs.io/en/stable/install/install.html)
+* [Create Google Colab Account](https://colab.research.google.com/)
 
 ## Download this repository
 To install this repository and run the Jupyter notebooks on your machine, you will first need git, which you may already have. Open a terminal and type `git` to check. If you do not have git, you can download it from [git-scm.com](https://git-scm.com/).
